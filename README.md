@@ -13,21 +13,18 @@ TailwindCSS for styling
 lucide-react icons for UI components
 Minimax algorithm for computer's decision-making
 Installation
+
 1. Clone the repository
 bash
-Copy code
 git clone https://github.com/vikramlingam/tic-tac-toe.git
 2. Navigate to the project directory
 bash
-Copy code
 cd tic-tac-toe
 3. Install dependencies
 bash
-Copy code
 npm install
 4. Start the development server
 bash
-Copy code
 npm start
 This will open the game in your browser at http://localhost:3000.
 
